@@ -11,4 +11,6 @@ In the original game there are two sets of tiles, an icon set, and an art galler
 
 I've replaced a few buttons and icons like the shop and safe buttons because they were from a purchased set of icons. The rest of the icon images within the app are probably ok to use.
 
+The sounds would have been downloaded from https://freesound.org
+
 The code requires a framework I built in AGK called Zest Framework: https://github.com/KevinCrossDCL/Zest-Framework
